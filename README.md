@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # art_racecar
 # art-racecar V1.0
 
@@ -69,3 +70,7 @@ e) 4.5 开始导航
 											# Steven Zhang
 											# 2019.01.30
 	
+=======
+# ArtRobot-NEU
+智能车比赛
+>>>>>>> 0e78feccca2c1f6a4e293a584f50cd1c914371ac
