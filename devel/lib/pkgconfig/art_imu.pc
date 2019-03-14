@@ -1,0 +1,8 @@
+prefix=/home/yygx/racecar/devel
+
+Name: art_imu
+Description: Description of art_imu
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/yygx/racecar/devel/lib 
+Requires: 

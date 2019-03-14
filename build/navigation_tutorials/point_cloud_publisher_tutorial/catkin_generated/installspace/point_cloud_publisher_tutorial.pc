@@ -1,0 +1,8 @@
+prefix=/home/yygx/racecar/install
+
+Name: point_cloud_publisher_tutorial
+Description: Description of point_cloud_publisher_tutorial
+Version: 0.2.3
+Cflags: 
+Libs: -L/home/yygx/racecar/install/lib 
+Requires: 

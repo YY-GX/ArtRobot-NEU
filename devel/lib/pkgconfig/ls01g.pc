@@ -1,0 +1,8 @@
+prefix=/home/yygx/racecar/devel
+
+Name: ls01g
+Description: Description of ls01g
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yygx/racecar/devel/lib 
+Requires: 
